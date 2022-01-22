@@ -17,5 +17,8 @@ Open-source software downloaded from ECAD Labs is subject to the licens(es) and 
 However, any use of ECAD Labs services that may connect to or interact with open-source software from ECAD Labs is subject to the terms and policies noted above.
 
 ## Are There Any Exceptions
-If you enter into a separate written contract with ECAD Labs, this contract may modify or exempt you from the terms and policies noted above.
+If you enter into a separate written contract with ECAD Labs it may modify or exempt you from the terms and policies noted above.
+
+## Watch Repository for Changes
+These terms and policies will change over time. Subscribe for GitHub [notifications](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/about-notifications) to receive alerts when these the ECAD Labs terms and policies change. 
 
