@@ -20,5 +20,5 @@ However, any use of ECAD Labs services that may connect to or interact with open
 If you enter into a separate written contract with ECAD Labs it may modify or exempt you from the terms and policies noted above.
 
 ## Watch Repository for Changes
-These terms and policies will change over time. Subscribe for GitHub [notifications](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/about-notifications) to receive alerts when these the ECAD Labs terms and policies change. 
+These terms and policies will change over time. Subscribe for GitHub [notifications](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/about-notifications) to receive alerts when the ECAD Labs terms and policies are modified. 
 
