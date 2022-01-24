@@ -32,7 +32,7 @@ You will not reproduce, duplicate, copy, sell, resell or exploit any portion of 
 ### 5. Privacy
 Misuse of any Personal Information or Personally Identifiable Information is prohibited.
 
-Any person, entity, or service collecting Personal Information or Personally Identifiable Information from the Service must comply with the ECAD Labs **Privacy Policy**. 
+Any person, entity, or service collecting Personal Information or Personally Identifiable Information from the Service must comply with the ECAD Labs [Privacy Policy](https://www.ecadlabs.com/privacy). 
 
 You may only collect and process Personal Information and Personally Identifiable Information that you have a lawful basis for collecting and processing.
 
@@ -47,11 +47,11 @@ If you are using a paid commercial Service and we determine your bandwidth or pr
 
 ### 7. Spam and Inauthentic Activity
 Automated excessive bulk activity and coordinated inauthentic activity, such as spamming, through the Service are prohibited. Such activities include:
-* bulk distribution of unsolicited promotions and advertising
-* inauthentic interactions, such as fake accounts and automated inauthentic activity
-* creation of or participation in secondary markets for the purpose of the proliferation of inauthentic activity
-* using the Service as a platform for propagating abuse on other platforms
-* phishing or attempted phishing
+- bulk distribution of unsolicited promotions and advertising
+- inauthentic interactions, such as fake accounts and automated inauthentic activity
+- creation of or participation in secondary markets for the purpose of the proliferation of inauthentic activity
+- using the Service as a platform for propagating abuse on other platforms
+- phishing or attempted phishing
 
 
 ### 8. Service Provider Protection
