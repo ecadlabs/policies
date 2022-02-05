@@ -19,6 +19,9 @@ However, any use of ECAD Labs services that may connect to or interact with open
 ## Are There Any Exceptions
 If you enter into a separate written contract with ECAD Labs it may modify or exempt you from the terms and policies noted above.
 
+## Code of Conduct
+If you contribute to ECAD Labs projects or participate in private or public community channels sponsored or supported by ECAD Labs, you must abide by our [Code of Conduct](code-of-conduct.md).
+
 ## Watch Repository for Changes
 These terms and policies will change over time. Subscribe for GitHub [notifications](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/about-notifications) to receive alerts when the ECAD Labs terms and policies are modified. 
 
