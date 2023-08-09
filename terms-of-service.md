@@ -65,6 +65,13 @@ Open source and other licenses applicable to software used in or forming part of
 
 Software used in your own instance, installation or fork is subject to the licenses upon which that software may be provided. These Terms are not intended to modify or supersede the licensing software.
 
+### g. Use of Artificial Intelligence
+**Short version:** *You shouldn't trust artificial intelligence services to provide correct answers and must comply with third-party terms of service and privacy policies.*
+
+ECAD Labs may provide or incorporate various forms of artificial intelligence, including large language models, into the ECAD Labs software support and related services (the "**AI Services**"). While helpful for troubleshooting and conducting research, AI Services frequently provide incorrect or incomplete information. You agree not to trust that answers provided by AI Services are correct without external verification. AI Services may also retain and share or learn from information input by end users, and you agree not to input confidential or proprietary information into the AI Services. Where ECAD Labs makes available or otherwise incorporates third-party artificial intelligence services into the AI Services, end users of the AI Services agree to be bound by third-party terms of service and privacy policies to the extent they apply to your inputs, usage and other related data.
+
+ECAD Labs currently uses third-party services from Chatbase.co. By using the AI Services, you agree to be bound by the Chatbase.co [Terms of Service](https://www.chatbase.co/terms) and [Privacy Policy](https://www.chatbase.co/privacy), to the extent that they apply to you, your data and personal information.
+
 ## Section 3: Other Rights
 ### a. Brand Features
 **Short version:** *Each party retains ownership of their respective brands and marks.*
@@ -149,7 +156,7 @@ ECAD Labs may use information submitted through our Services in accordance with 
 If you think somebody is violating your copyrights through or on ECAD Labs products or services and want to notify us, you can find contact information at [www.ecadlabs.com](https://www.ecadlabs.com).
 
 
-_Last modified: January 24, 2022_
+_Last modified: August 9, 2023_
 
 ===
 Portions of this page incorporate and modify work created and shared by [Google](https://developers.google.com/terms) and used according to terms described in the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
